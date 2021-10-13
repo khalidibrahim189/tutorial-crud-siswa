@@ -15,7 +15,7 @@ if (isset($_POST['proses'])) {
             </script>";
     } else {
         echo "<script>
-                alert('data tidak disimpan');
+                alert('data gagal disimpan');
             </script>";
     }
 }
